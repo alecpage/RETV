@@ -1,51 +1,51 @@
 state,units,prop_MF,prop_SF
-Alabama,5215,19,0
-Alaska,0,0,0
-Arizona,13741,38,2082
-Arkansas,3464,14,0
-California,82414,317,1
-Colorado,15332,52,0
-Connecticut,0,0,0
-Delaware,0,0,0
-Florida,56935,153,7282
-Georgia,47545,133,3822
-Hawaii,0,0,0
+Alabama,7552,26,0
+Alaska,3262,3,0
+Arizona,16603,57,2082
+Arkansas,4455,15,0
+California,104055,384,1
+Colorado,21825,81,0
+Connecticut,1899,10,0
+Delaware,982,1,0
+Florida,71090,243,7282
+Georgia,54627,174,3822
+Hawaii,7148,7,0
 Idaho,0,0,0
-Illinois,8151,24,0
-Indiana,1478,1,1182
+Illinois,14301,42,0
+Indiana,320,2,1182
 Iowa,3589,15,0
-Kansas,5246,18,0
-Kentucky,2382,7,0
-Louisiana,3661,14,0
+Kansas,7247,28,0
+Kentucky,3320,12,0
+Louisiana,5062,17,0
 Maine,0,0,0
-Maryland,7428,24,0
-Massachusetts,9523,31,0
+Maryland,10493,35,0
+Massachusetts,10429,33,0
 Michigan,0,0,0
-Minnesota,2031,7,0
-Mississippi,2763,8,666
-Missouri,6288,25,0
+Minnesota,7008,37,0
+Mississippi,3738,10,666
+Missouri,6657,29,0
 Montana,0,0,0
-Nebraska,0,0,0
-Nevada,3902,9,1361
+Nebraska,384,1,0
+Nevada,18214,64,1361
 New Hampshire,1314,2,0
-New Jersey,2041,7,0
-New Mexico,248,1,0
-New York,4501,29,0
-North Carolina,22727,62,2847
+New Jersey,2353,8,0
+New Mexico,1327,3,0
+New York,6871,45,0
+North Carolina,22913,76,2847
 North Dakota,0,0,0
-Ohio,4010,13,0
-Oklahoma,834,4,0
-Oregon,604,3,0
-Pennsylvania,3471,9,0
-Rhode Island,492,1,0
-South Carolina,6193,25,5
-South Dakota,0,0,0
-Tennessee,14749,39,2412
-Texas,91838,298,3371
+Ohio,5750,16,0
+Oklahoma,1260,7,0
+Oregon,7913,63,0
+Pennsylvania,3561,10,0
+Rhode Island,1102,3,0
+South Carolina,8670,40,5
+South Dakota,828,1,0
+Tennessee,15582,50,2412
+Texas,121279,424,3371
 Utah,412,1,0
 Vermont,0,0,0
-Virginia,24858,72,0
-Washington,19341,92,21
-West Virginia,0,0,0
-Wisconsin,287,1,0
+Virginia,33703,79,0
+Washington,46292,268,21
+West Virginia,280,1,0
+Wisconsin,502,3,0
 Wyoming,0,0,0
