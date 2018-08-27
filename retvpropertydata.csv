@@ -1,18 +1,18 @@
 state,units,prop_MF,prop_SF
 Alabama,7552,26,0
 Alaska,3262,3,0
-Arizona,16603,57,2082
+Arizona,18685,57,2082
 Arkansas,4455,15,0
-California,104055,384,1
+California,104056,384,1
 Colorado,21825,81,0
 Connecticut,1899,10,0
 Delaware,982,1,0
-Florida,71090,243,7282
-Georgia,54627,174,3822
+Florida,78372,243,7282
+Georgia,58449,174,3822
 Hawaii,7148,7,0
 Idaho,0,0,0
 Illinois,14301,42,0
-Indiana,320,2,1182
+Indiana,1502,2,1182
 Iowa,3589,15,0
 Kansas,7247,28,0
 Kentucky,3320,12,0
@@ -22,30 +22,30 @@ Maryland,10493,35,0
 Massachusetts,10429,33,0
 Michigan,0,0,0
 Minnesota,7008,37,0
-Mississippi,3738,10,666
+Mississippi,4404,10,666
 Missouri,6657,29,0
 Montana,0,0,0
 Nebraska,384,1,0
-Nevada,18214,64,1361
+Nevada,19575,64,1361
 New Hampshire,1314,2,0
 New Jersey,2353,8,0
 New Mexico,1327,3,0
 New York,6871,45,0
-North Carolina,22913,76,2847
+North Carolina,25760,76,2847
 North Dakota,0,0,0
 Ohio,5750,16,0
 Oklahoma,1260,7,0
 Oregon,7913,63,0
 Pennsylvania,3561,10,0
 Rhode Island,1102,3,0
-South Carolina,8670,40,5
+South Carolina,8675,40,5
 South Dakota,828,1,0
-Tennessee,15582,50,2412
-Texas,121279,424,3371
+Tennessee,17994,50,2412
+Texas,124650,424,3371
 Utah,412,1,0
 Vermont,0,0,0
 Virginia,33703,79,0
-Washington,46292,268,21
+Washington,46313,268,21
 West Virginia,280,1,0
 Wisconsin,502,3,0
 Wyoming,0,0,0
